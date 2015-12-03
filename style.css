@@ -1,3 +1,7 @@
+p {
+	text-indent: 18px
+}
+
 #navbar {
 	font-family: arial;
 	background-color: black;
@@ -32,4 +36,22 @@
 #navbar a:hover {
 	background-color: #ececec;
 	color: black;
+}
+
+#aboutcontent {
+	margin: 0 auto;
+	max-width: 90%
+}
+
+.authors {
+	display: inline-block;
+	width: 400px
+}
+
+/*tool to scale images to a preferred size while maintaining initial ratio*/
+.authorpic {
+	height: 100%;
+	width: 100%;
+	max-width: 200px;
+	max-height: 200px;
 }
