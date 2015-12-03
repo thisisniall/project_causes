@@ -1,3 +1,7 @@
+p {
+	text-indent: 18px
+}
+
 #navbar {
 	font-family: arial;
 	background-color: black;
@@ -32,4 +36,13 @@
 #navbar a:hover {
 	background-color: #ececec;
 	color: black;
+}
+
+#aboutcontent {
+	
+}
+
+.author {
+	display: inline-block;
+	width: 400px
 }
