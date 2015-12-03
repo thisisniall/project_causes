@@ -1,3 +1,7 @@
+body {
+	font-family: 'Helvetica Neue';
+}
+
 #navbar {
 	font-family: arial;
 	background-color: black;
@@ -39,25 +43,41 @@
 	margin-top: 35px;
 }
 
+#title {
+	text-align: center;
+	padding-top: 10px;
+	font-size: 40px;
+}
+
 #cWrap {
 	width: 90%;
 	height: 100%;
 	margin: 0 auto;
 }
 
+.subTitle {
+	text-align: center;
+}
+
 #lColumn {
 	width: 40%;
 	float: left;
 	padding: 5%;
+	min-width: 200px;
+}
+
+#lColumn img {
+	width: 100%;
 }
 
 #cColumn {
 	width: 40%;
 	float: left;
 	padding: 5%;
+	min-width: 200px;
 }
 
 #cColumn img {
 	margin: 0 auto;
-}
+	width: 100%;
 }
