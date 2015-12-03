@@ -33,3 +33,31 @@
 	background-color: #ececec;
 	color: black;
 }
+
+#page {
+	width: 100%;
+	margin-top: 35px;
+}
+
+#cWrap {
+	width: 90%;
+	height: 100%;
+	margin: 0 auto;
+}
+
+#lColumn {
+	width: 40%;
+	float: left;
+	padding: 5%;
+}
+
+#cColumn {
+	width: 40%;
+	float: left;
+	padding: 5%;
+}
+
+#cColumn img {
+	margin: 0 auto;
+}
+}
