@@ -103,3 +103,12 @@ p {
 	max-width: 200px;
 	max-height: 200px;
 }
+
+#aboutcontent {
+	
+}
+
+.author {
+	display: inline-block;
+	width: 400px
+}
