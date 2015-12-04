@@ -63,6 +63,11 @@ p {
 	text-align: center;
 }
 
+.link {
+	color: #000000;
+	text-decoration: none;
+}
+
 #lColumn {
 	width: 40%;
 	float: left;
