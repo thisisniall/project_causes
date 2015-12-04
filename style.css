@@ -1,6 +1,7 @@
 
 body {
 	font-family: 'Helvetica Neue';
+	background-color: #ececec;
 }
 
 p {
@@ -93,9 +94,22 @@ p {
 	max-width: 90%
 }
 
+#causeinfo {
+	border-bottom: 2px solid black;
+	margin-bottom: 15px;
+	margin-top: 40px;
+}
+
+#causeinfo h1 {
+	text-align: center;
+	width: 100%;
+}
+
 .authors {
 	display: inline-block;
-	width: 400px
+	max-width: 400px;
+	float: left;
+	margin-right: 10px;
 }
 
 /*tool to scale images to a preferred size while maintaining initial ratio*/
