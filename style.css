@@ -105,10 +105,19 @@ p {
 }
 
 #aboutcontent {
-	
+	margin: 0 auto;
+	width: 1000px;
 }
 
-.author {
+.authors {
 	display: inline-block;
 	width: 400px
+}
+
+/*tool to scale images to a preferred size while maintaining initial ratio*/
+.authorpic {
+	height: 100%;
+	width: 100%;
+	max-width: 200px;
+	max-height: 200px;
 }
