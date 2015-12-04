@@ -47,55 +47,42 @@ p {
 	margin-top: 35px;
 }
 
-<<<<<<< HEAD
 #title {
 	text-align: center;
 	padding-top: 10px;
 	font-size: 40px;
 }
 
-=======
->>>>>>> 1c8d6b2... added content to the cUnited.html page. added some styling
 #cWrap {
 	width: 90%;
 	height: 100%;
 	margin: 0 auto;
 }
 
-<<<<<<< HEAD
 .subTitle {
 	text-align: center;
 }
 
-=======
->>>>>>> 1c8d6b2... added content to the cUnited.html page. added some styling
 #lColumn {
 	width: 40%;
 	float: left;
 	padding: 5%;
-<<<<<<< HEAD
 	min-width: 200px;
 }
 
 #lColumn img {
 	width: 100%;
-=======
->>>>>>> 1c8d6b2... added content to the cUnited.html page. added some styling
 }
 
 #cColumn {
 	width: 40%;
 	float: left;
 	padding: 5%;
-<<<<<<< HEAD
 	min-width: 200px;
-=======
->>>>>>> 1c8d6b2... added content to the cUnited.html page. added some styling
 }
 
 #cColumn img {
 	margin: 0 auto;
-<<<<<<< HEAD
 	width: 100%;
 }
 
@@ -133,7 +120,4 @@ p {
 	width: 100%;
 	max-width: 200px;
 	max-height: 200px;
-=======
-}
->>>>>>> 1c8d6b2... added content to the cUnited.html page. added some styling
 }
