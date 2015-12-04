@@ -1,6 +1,10 @@
 
 body {
 	font-family: 'Helvetica Neue';
+<<<<<<< HEAD
+=======
+	background-color: #ececec;
+>>>>>>> 21c58c0b2b7aaf5e662333d87cdaa55483db9fc0
 }
 
 p {
@@ -92,14 +96,37 @@ p {
 	width: 100%;
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 21c58c0b2b7aaf5e662333d87cdaa55483db9fc0
 #aboutcontent {
 	margin: 0 auto;
 	max-width: 90%
 }
 
+<<<<<<< HEAD
 .authors {
 	display: inline-block;
 	width: 400px
+=======
+#causeinfo {
+	border-bottom: 2px solid black;
+	margin-bottom: 15px;
+	margin-top: 40px;
+}
+
+#causeinfo h1 {
+	text-align: center;
+	width: 100%;
+}
+
+.authors {
+	display: inline-block;
+	max-width: 400px;
+	float: left;
+	margin-right: 10px;
+>>>>>>> 21c58c0b2b7aaf5e662333d87cdaa55483db9fc0
 }
 
 /*tool to scale images to a preferred size while maintaining initial ratio*/
@@ -108,4 +135,8 @@ p {
 	width: 100%;
 	max-width: 200px;
 	max-height: 200px;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 21c58c0b2b7aaf5e662333d87cdaa55483db9fc0
